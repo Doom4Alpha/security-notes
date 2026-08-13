@@ -8,7 +8,7 @@ Learning log for my path toward a Blue Team / SOC Analyst career — Télécoms/
 This repo isn't a portfolio of polished projects. It's a running record of what I'm learning, what I built to test it, and what actually stuck — courses, hands-on lab work, and TryHackMe progress, documented close to when I do them.
 
 ## Current Focus
-Blue Team / SOC — chosen after comparing job market availability, salary trajectory, and hands-on skill-transfer against red team. See my [profile README](https://github.com/YOUR-USERNAME) for the full picture.
+Blue Team / SOC — chosen after comparing job market availability, salary trajectory, and hands-on skill-transfer against red team. See my [Doom4Alpha](https://github.com/YOUR-USERNAME) for the full picture.
 
 ## Structure
 
