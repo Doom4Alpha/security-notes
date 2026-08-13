@@ -1,0 +1,63 @@
+#Name: Mouadh Ahmed — Security Learning Journey
+
+Télécoms/Réseaux engineering student (SR — Sécurité Réseau specialization), building toward a **Blue Team / SOC Analyst** career. This profile and my [`security-notes`](https://github.com/YOUR-USERNAME/security-notes) repo track my learning log: notes, hands-on lab work, and progress through certifications, coursework, and platforms like TryHackMe.
+
+I'm not documenting polished writeups here — this is a working log of what I'm learning, what clicked, and what I built to test it.
+
+---
+
+## 🎯 Current Focus
+
+**Blue Team / SOC path** — chosen after comparing job market availability (~80-90% of cybersecurity roles vs ~5-10% for red team), salary trajectory, and hands-on skill-transfer against red team. Blue-team-first is also the stronger route into red or purple team later, if that ever becomes the goal — this is a foundation, not a narrowing.
+
+Specialization: **SR (Sécurité Réseau)** within a Télécoms/Réseaux license — network + telecom security.
+
+---
+
+## 🏅 Certifications & Credentials
+
+| Status | Credential | Notes |
+|---|---|---|
+| ✅ Done | Cisco Cybersecurity Awareness | Foundations — online safety, threats, career overview |
+| ✅ Done | Cisco Cybersecurity Defense Analyst / SOC | 8-course path, Splunk/SIEM-focused. Passed final exam — **96%** |
+| 🔄 In progress | TryHackMe SOC Level 1 → SAL1 | Hands-on SOC path, Splunk as SIEM of choice |
+| ⏳ Next | CompTIA Security+ | Highest job-posting demand (~70% of entry-level cybersecurity roles) |
+| ⏳ Planned | CompTIA CySA+ | SOC-specific (~35% of SOC/analyst postings); also renews Security+ automatically if earned within its 3-year window |
+
+---
+
+## 🧪 Home Lab
+
+Building a hands-on lab to turn course material into something real rather than passive:
+- VirtualBox on a Windows host, starting with an Ubuntu Server VM (terminal-only, closer to real server/SOC environments)
+- Practicing core Linux fundamentals before expanding to a second VM
+- Next: a two-VM setup on an internal network, capturing traffic with `tcpdump` and analyzing it in Wireshark
+- Later: Security Onion for a real mini-SOC monitoring stack (Suricata, Zeek, Elastic)
+
+See [`security-notes/lab`](https://github.com/YOUR-USERNAME/security-notes/tree/main/lab) for setup notes and exercises.
+
+---
+
+## 📁 Repo Structure
+
+Full notes live in [`security-notes`](https://github.com/YOUR-USERNAME/security-notes):
+```
+├── cisco-defense-analyst/   # Notes per course (1–8)
+├── tryhackme/                # SOC Level 1 rooms, later challenges — notes, not walkthroughs
+├── lab/                       # Home lab setup + hands-on exercises
+└── README.md
+```
+
+---
+
+## 🔗 Links
+
+- TryHackMe profile: *(add once set up)*
+- LinkedIn: *(add link)*
+- Cisco cert verification: *(add link/QR from certificate)*
+
+---
+
+## 🗺️ Roadmap
+
+Cisco Defense Analyst course ✅ → TryHackMe SOC Level 1 (current) → Security+ → CySA+, alongside an SR-specialization-aligned PFE on IoT/mobile network security. One thing at a time, always finished before the next starts.
