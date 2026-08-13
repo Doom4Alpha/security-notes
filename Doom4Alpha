@@ -1,6 +1,6 @@
 #Name: Mouadh Ahmed — Security Learning Journey
 
-Télécoms/Réseaux engineering student (SR — Sécurité Réseau specialization), building toward a **Blue Team / SOC Analyst** career. This profile and my [`security-notes`](https://github.com/YOUR-USERNAME/security-notes) repo track my learning log: notes, hands-on lab work, and progress through certifications, coursework, and platforms like TryHackMe.
+Télécoms/Réseaux engineering student (SR — Sécurité Réseau specialization), building toward a **Blue Team / SOC Analyst** career. This profile and my [`security-notes`](https://github.com/Doom4Alpha/security-notes) repo track my learning log: notes, hands-on lab work, and progress through certifications, coursework, and platforms like TryHackMe.
 
 I'm not documenting polished writeups here — this is a working log of what I'm learning, what clicked, and what I built to test it.
 
@@ -34,13 +34,13 @@ Building a hands-on lab to turn course material into something real rather than 
 - Next: a two-VM setup on an internal network, capturing traffic with `tcpdump` and analyzing it in Wireshark
 - Later: Security Onion for a real mini-SOC monitoring stack (Suricata, Zeek, Elastic)
 
-See [`security-notes/lab`](https://github.com/YOUR-USERNAME/security-notes/tree/main/lab) for setup notes and exercises.
+See [`security-notes/lab`](https://github.com/Doom4Alpha/security-notes/tree/main/lab) for setup notes and exercises.
 
 ---
 
 ## 📁 Repo Structure
 
-Full notes live in [`security-notes`](https://github.com/YOUR-USERNAME/security-notes):
+Full notes live in [`security-notes`](https://github.com/Doom4Alpha/security-notes):
 ```
 ├── cisco-defense-analyst/   # Notes per course (1–8)
 ├── tryhackme/                # SOC Level 1 rooms, later challenges — notes, not walkthroughs
